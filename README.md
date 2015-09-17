@@ -1,2 +1,1 @@
-# jameschicken.github.io
-Website Source
+# jameschicken.com

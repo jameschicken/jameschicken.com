@@ -1,0 +1,13 @@
+---
+layout: post
+title: "The World's End"
+date: 2013-09-08 00:00:00
+category: Movies
+imdb: http://www.imdb.com/title/tt1213663/
+---
+
+The World's End: B-
+
+A few weeks ago, I saw the movie, "The World's End". I expected this movie to be awesome, but it ended up not quite meeting those expectations. According to imdb.com, this movie is about: " Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier who unwittingly become humankind's only hope for survival." Simon Pegg plays Gary King, the self-proclaimed leader of the group of friends. I have been a fan of Simon Pegg since I first saw him in "Shaun of the Dead". As in that movie, and almost all of his movies since then, he was absolutely hysterical in this one! I laughed in almost every scene he was involved in. Nick Frost plays Andy Knightley, who works at a firm. He is Gary's best friend out of the four of them. Nick Frost has been a pretty funny actor in his movies and in this one, he had quite a few funny scenes, especially as the movie progressed. Martin Freeman plays Oliver Chamberlain, a real estate agent. He is the more serious and factual out of the five friends. I was never a fan of Martin Freeman, until I saw him in "The Hobbit: An Unexpected Journey". I thought he did a pretty good job in this movie. He had quite a few witty lines that he acted out so well, and was pretty funny too. Paddy Considine plays Steven Price, who is the 4th member of the group, competes with Gary the whole movie over a girl. I personally had no idea who Paddy Considine was, until I saw him in the movie, "Hot Fuzz". It was pretty entertaining watching him play out his lines, especially in the scenes where him and Simon Pegg's characters compete for this girl. Eddie Marsan plays Peter Page, a car salesman. He is the youngest, 5th and last member of the group. I liked Eddie Marsan, ever since his role in "Hancock", opposite Will Smith. He too had some pretty clever lines in the movie. Rosamund Pike plays Sam Chamberlain, Oliver's sister and Gary and Steven's love interest in the film. I have seen Rosamund Pike in action-adventure movies before, but in few comedies. Although she has been in few comedy movies, I think she was still pretty funny and did a pretty good job.
+
+Overall, compared to its predecessors, "Shaun of the Dead" and "Hot Fuzz", this movie was pretty good. My only complaint was that it was not as good as "Shaun of the Dead", in my opinion. I would recommend this movie to anyone who enjoys a good laugh. I would also recommend that you see this movie in theaters. If not, I would at least check it out on-demand when it comes out.

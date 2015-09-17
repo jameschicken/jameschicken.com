@@ -1,0 +1,24 @@
+.post-meta{
+  color: #777;
+  a{
+    border-bottom: 1px dotted #777;
+    color: #777;
+  }
+  .category{
+    color: #fff;
+    background-color: gray;
+    font-size: 10px;
+    line-height: 1em;
+    padding: 3px;
+    border-radius: 3px;
+    text-transform: uppercase;
+  }
+}
+
+img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 10px;
+  border: 2px solid #777;
+}

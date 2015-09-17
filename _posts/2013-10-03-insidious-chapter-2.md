@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Insidious: Chapter 2"
+date: 2013-10-03 00:00:00
+category: Movies
+imdb: http://www.imdb.com/title/tt2226417/
+---
+
+Insidious: Chapter 2: B-
+
+**WARNING:** Do not read on if you have not seen the first one(and the second one, if you do not want a partial spoiler.).
+
+A couple weeks ago, I saw the movie, "Insidious: Chapter 2". I was expecting this movie to be even more scary than "Chapter 1" of Insidious, but I found that it was not even as scary as "Insidious" ; just a little less scary as the original. According to imdb.com, this movie is about: "The haunted Lambert family that seeks to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world." Patrick Wilson returns as Josh Lambert. Josh is the father of the family and is an astral projector and is possessed by the old woman/Parker Crane(Tom Fitzpatrick). I think he also did a good job in Part 2, as he did in part one. It seemed like he did a little better acting job in the sequel, compared to the original. Rose Byrne returns as Renai Lambert, the mother of the family. She did a pretty good job in both movies, but in this one, she seemed to lack the amount of enthusiasm she had to her lines. Other than that, she did a pretty good job. Ty Simpkins also returns as Dalton Lambert, the son of Josh and Renai Lambert and fellow astral projector, due to his Dad, Josh, passing it on to him. As a child actor, this kid amazes me in how well he can act. In both movies, I think he did a great job in acting, making the audience feel like this experience was really happening to this family. Barbara Hershey returns as Lorraine Lambert, the mother of Josh and the grandmother of Dalton and his brother Foster Lambert(Andrew Astor). I think she did a pretty good job in both movies, but I do not think she was the best choice for the role. This might be because I never liked her as an actress, but I digress. Lin Shaye makes a surprising return to the franchise as Elise Rainier, the medium who helps get rid of the demon in the original movie and eventually dies at the hands of a possessed Josh, who got possessed in the Further, a dark dimension that exists parallel to our world and is inhabited by the tortured souls of the dead. I think she did a great job in both movies. Steve Coulter is the new cast member to this franchise, playing the role of Carl, Elise's old assistant. I think he did a good job. Leigh Whannell and Angus Sampson return as Specs and Tucker, who were Elise's current assistants before she died. They basically serve as comedic relief. They both did an equally great job in both movies, providing two times the comedy in Part 2.
+
+Overall, I would say this movie was great. I would recommend it to anyone who has seen the first one and like horror movies. However, I would not recommend this movie to anyone who does not like horror movies. For those of you who like horror movies, I would recommend seeing this in theaters. If not, on-demand or on DVD or Blu-Ray.
