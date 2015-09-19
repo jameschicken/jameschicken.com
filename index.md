@@ -1,5 +1,6 @@
 ---
 layout: default
+disqus_disabled: true
 ---
 
 # Welcome!

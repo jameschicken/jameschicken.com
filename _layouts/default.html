@@ -10,7 +10,7 @@
       {{ content }}
     </div>
 
-    {% if page.title %}
+    {% unless page.disqus_disabled %}
       {% if site.disqus_enabled %}
         <!-- Start Disqus Code -->
         <div id="disqus_thread"></div>
@@ -28,7 +28,7 @@
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
         <!-- End Disqus Code -->
       {% endif %}
-    {% endif %}
+    {% endunless %}
 
     {% include footer.html %}
   </body>

@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+disqus_disabled: true
 ---
 
 ## Connect with James!
